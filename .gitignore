@@ -1,0 +1,12 @@
+*.cbp
+CMake*
+Makefile
+cmake*
+记录
+tmp/
+data/text8
+data/text1
+bin/
+src/lr.cpp
+src/test.py
+data/
