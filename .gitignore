@@ -1,3 +1,5 @@
+.git/
+.idea/
 *.cbp
 CMake*
 Makefile
@@ -7,6 +9,6 @@ tmp/
 data/text8
 data/text1
 bin/
-src/lr.cpp
-src/test.py
-data/
+src/test*.py
+data/tmp/
+src/tmp/
